@@ -13,3 +13,6 @@ The purpose of this analysis is to analyze climate data in Oahu to determine how
 ## Summary
 The average temperatures in Oahu during June and December are both considered to be warm and only differ by 3-4 degrees which means that the surf and ice cream shops could be successful year-round businesses. In order to gather more weather data for June and December, we could look at the precipiation levels for each month with these queries:
    - ![prcp](Resources/prcp_queries.png)
+   - From these queries, we can see that the average and max precipitation for the month of December is higher than the month of June but not by a significant amount. 
+        - ![](Resources/prec_results.png)
+
